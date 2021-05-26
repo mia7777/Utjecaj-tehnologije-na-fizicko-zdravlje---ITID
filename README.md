@@ -5,3 +5,5 @@ Za kolegij Informacijska tehnologija i društvo bilo je potrebno samostalno odab
 Odabrana tema: Utjecaj tehnologije na fizičko zdravlje
 
 Poster je rađen u online grafičkom editoru Canva
+
+Anketa je provedena preko servisa Google obrasci
